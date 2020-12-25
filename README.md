@@ -5,3 +5,8 @@ $ ns create nsAnimateJsApp --template @nativescript/template-blank-ng --style=sc
 ```
 
 
+
+# References
+
+https://openbase.io/js/@mabs.dk/nativescript-animejs
+
